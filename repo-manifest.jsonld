@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/adamchainz/unittest-parametrize/commit/9bfbdd53e4e4dcee61386e024b1b0f3f7020a373",
       "git:hexsha": "9bfbdd53e4e4dcee61386e024b1b0f3f7020a373",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/adamchainz/unittest-parametrize/commit/023be4381b814cb84519725bb4e4a52dbb2e390b",
