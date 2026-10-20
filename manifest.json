@@ -1,0 +1,38 @@
+{
+  "manifest_version": "1.0",
+  "org": "adamchainz",
+  "repo": "unittest-parametrize",
+  "versions": [
+    {
+      "commit": "9bfbdd53e4e4dcee61386e024b1b0f3f7020a373",
+      "parsed_at": "2026-10-20T09:48:04.898034+00:00",
+      "filetree": "filetree/9bfbdd53e4e4dcee61386e024b1b0f3f7020a373.nq.gz",
+      "blobs": [
+        "blob/2a7f84f54867d02714727f82eef95d3be939d666.nq.gz",
+        "blob/e69de29bb2d1d6434b8b29ae775ad8c2e48c5391.nq.gz",
+        "blob/8ed59b02f1bda104b9c62d5f726199c487ba5d07.nq.gz",
+        "blob/61adbc3a9d5c4890a1131cbeb56c2ea4dc2fae4e.nq.gz",
+        "blob/3ba13e0cec6cbbfd462e9ebf529dd2093148cd69.nq.gz",
+        "blob/93acb639926ccf42e9a2f76f02419eeaf0405c3a.nq.gz",
+        "blob/663d6b920407c6318f1222445b39e30e44afa9d3.nq.gz",
+        "blob/265e401cb9cbc1397fa7ee2418896c45d46287f6.nq.gz",
+        "blob/40f4ac757715bb1a8c355eda9124141fdda3aeff.nq.gz",
+        "blob/ea55c818091acebfa6ba102d0538182f1ce54f1d.nq.gz",
+        "blob/36b0a647a68abe1d511a9723a7cad46f9035a552.nq.gz",
+        "blob/01b73e2baf3ddeda681a467beff642f967a3d27a.nq.gz",
+        "blob/205ab9ad9df4ab629d1b7b8d8a72b41f44d8824c.nq.gz",
+        "blob/438d629c3ce988e3afffa71110b9660853d38549.nq.gz",
+        "blob/4fb7faec2960085d0994a23838947e58b6228aa7.nq.gz",
+        "blob/30acc83b6797da94e6f047ba88ccfb5b934894ee.nq.gz",
+        "blob/bf2611418f409118ef253d13edddecef6c13f845.nq.gz",
+        "blob/22ddbb118475b52ce8ecba56d9ec45009923da58.nq.gz",
+        "blob/7f1d007c01048570d774e58f46203d3e92056c39.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
